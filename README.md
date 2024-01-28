@@ -1,7 +1,5 @@
-# Welcome to streamlit
-
-This is the app you get when you run `streamlit hello`, extracted as its own app.
-
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
-
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+# Machine-learning
+In this assignment we will utilize the Machine Learning Models to solve prediction problems using Python: 
+• To build Machine Learning Models to solve HR Analytics problem and Airbnb problem. 
+• To train the models by adjusting different hyperparameters. 
+• To evaluate the model performance and document findings
